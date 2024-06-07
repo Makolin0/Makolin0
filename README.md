@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello there 👋
+# I'm Adam
+I've been fascinated by computers since always, and I am currently pursuing an engineering degree in computer science.
+
+# Currently working on
+- Engineering Degree Project (https://github.com/Makolin0/ChessJavaFX)
+- Show-off site
+
+# Currently learning
+- React
+- Arduino microcontroller
+
 
 
 ```math

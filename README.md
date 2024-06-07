@@ -3,7 +3,7 @@
 I've been fascinated by computers since always, and I am currently pursuing an engineering degree in computer science.
 
 ### Currently working on
-- Engineering Degree Project (https://github.com/Makolin0/ChessJavaFX)
+- Engineering Degree Project ([link](https://github.com/Makolin0/ChessJavaFX))
 - Show-off site
 
 ### Currently learning

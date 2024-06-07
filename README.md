@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://r4.wallpaperflare.com/wallpaper/857/602/322/the-legend-of-zelda-tears-of-the-kingdom-rauru-night-hd-wallpaper-dd753b7dda11be5ebe12c1898d54a631.jpg');]{x0000}$}
+
 <!--
 **Makolin0/Makolin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

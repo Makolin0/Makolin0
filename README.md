@@ -3,13 +3,15 @@
 I've been fascinated by computers since always, and I am currently pursuing an engineering degree in computer science.
 
 ### Currently working on
-- Engineering Degree Project ([link](https://github.com/Makolin0/ChessJavaFX))
-- Show-off site
+- ([Engineering Degree Project](https://github.com/Makolin0/ChessJavaFX))
+- Web app for hosting all my projects
 
 ### Currently learning
 - Docker
 - MongoDB
 
+### Known languages/frameworks
+Java, SpringBoot, JS, React, HTML, CSS, SQL, C++, C, Python
 
 
 <!--

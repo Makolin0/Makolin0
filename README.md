@@ -7,11 +7,8 @@ I've been fascinated by computers since always, and I am currently pursuing an e
 - Show-off site
 
 ### Currently learning
-- React
-- Arduino microcontroller
-- Figma
-- Web design
-
+- Docker
+- MongoDB
 
 
 

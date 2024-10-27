@@ -11,7 +11,7 @@ Currently pursuing an engineering degree in computer science.
 - MongoDB
 
 ### Known languages/frameworks
-Java, SpringBoot, JS, React, HTML, CSS, SQL, C++, C, Python
+Java, SpringBoot, JS, React, HTML, CSS, SQL, C++, C, Python, R, Matlab
 
 
 <!--

@@ -7,12 +7,7 @@ Currently pursuing an engineering degree in computer science.
 - Web app for hosting all my projects
 
 ### Currently learning
-- Docker
 - MongoDB
-
-### Known languages/frameworks
-Java, SpringBoot, JS, React, HTML, CSS, SQL, C++, C, Python, R, Matlab
-
 
 <!--
 **Makolin0/Makolin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

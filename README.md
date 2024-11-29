@@ -3,7 +3,7 @@
 Currently pursuing an engineering degree in computer science.
 
 ### Currently working on
-- ([Engineering Degree Project](https://github.com/Makolin0/ChessJavaFX))
+- [Engineering Degree Project](https://github.com/Makolin0/ChessJavaFX)
 - Web app for hosting all my projects
 
 ### Currently learning

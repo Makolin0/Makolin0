@@ -1,13 +1,14 @@
 # Hello there 👋
-## I'm Adam
-Currently pursuing an engineering degree in computer science.
+## I'm Adam, Computer Science Engineer
+Currently pursuing Master's degree in computer science.
 
 ### Currently working on
-- [Engineering Degree Project](https://github.com/Makolin0/ChessJavaFX)
 - Web app for hosting all my projects
+- Various school projects
 
 ### Currently learning
 - MongoDB
+- Kubernetes
 
 <!--
 **Makolin0/Makolin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

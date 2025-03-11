@@ -4,7 +4,7 @@ Currently pursuing Master's degree in computer science.
 
 ### Currently working on
 - Web app for hosting all my projects
-- Various school projects
+- Various school projects (private)
 
 ### Currently learning
 - MongoDB

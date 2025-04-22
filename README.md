@@ -7,7 +7,7 @@ Currently pursuing Master's degree in computer science.
 - Various school projects (private)
 
 ### Currently learning
-- MongoDB
+- Neural Networks
 - Kubernetes
 
 <!--
